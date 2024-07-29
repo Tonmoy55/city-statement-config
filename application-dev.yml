@@ -1,6 +1,6 @@
 spring:
   application:
-    name: city-statement-config-server-prod
+    name: city-statement-config-server-dev
   cloud:
     config:
       server:
