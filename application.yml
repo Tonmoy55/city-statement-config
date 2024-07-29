@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: city-statement-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: 
+          clone-on-start: true
+server:
+  port: 8888
