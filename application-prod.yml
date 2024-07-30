@@ -7,6 +7,4 @@ spring:
         git:
           uri: 
           clone-on-start: true
-server:
-  port: 8888
 
