@@ -1,1 +1,3 @@
-testValue: This msg is from git config server 
+testValue: 
+  -This msg is from git config server 
+  
